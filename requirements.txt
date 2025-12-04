@@ -1,8 +1,10 @@
+streamlit
 yfinance
 pandas
 numpy
 scikit-learn
-ta
-plotly
-streamlit
 matplotlib
+plotly
+ta
+tensorflow-cpu
+

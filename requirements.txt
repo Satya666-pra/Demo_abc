@@ -1,10 +1,10 @@
-streamlit
-yfinance
-pandas
-numpy
-scikit-learn
-matplotlib
-plotly
-ta
-tensorflow-cpu
+streamlit==1.36.0
+yfinance==0.2.40
+pandas==2.2.2
+numpy==1.26.4
+matplotlib==3.8.4
+requests==2.32.3
+scikit-learn==1.5.1
+tensorflow-cpu==2.16.1
+
 
